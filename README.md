@@ -1,7 +1,6 @@
 # PZEM-004T Power Monitoring Utility
-(<a href="https://github.com/Purdue-DC-Nanogrid-House-Project">Link to Original</a>)
-[Specifications](#specifications)  
-[PZEM Communication ID Modification](#pzem-communication-id-modification)  
+<a href="https://github.com/Purdue-DC-Nanogrid-House-Project">Click here</a> to see the entire project code 
+in the Direct Current Nanogrid Repo. This repo only contains the portion of the project I worked on.
 
 ## Specifications
 | Measurement    | Range           | Accuracy | Resolution |
